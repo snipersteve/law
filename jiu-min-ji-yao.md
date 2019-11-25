@@ -34,3 +34,5 @@ description: 全国法院民商事审判工作会议纪要 法〔2019〕254号
 
 十二、关于民刑交叉案件的程序处理
 
+{% file src=".gitbook/assets/zui-gao-ren-min-fa-yuan-guan-yu-yin-fa-quan-guo-fa-yuan-min-shang-shi-shen-pan-gong-zuo-hui-yi-ji-ya.docx" %}
+
