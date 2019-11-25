@@ -4,7 +4,7 @@ description: 全国法院民商事审判工作会议纪要 法〔2019〕254号
 
 # 九民纪要
 
-全国法院民商事审判工作会议纪要
+[全国法院民商事审判工作会议纪要](http://www.court.gov.cn/zixun-xiangqing-199691.html)
 
 目录
 
@@ -33,6 +33,4 @@ description: 全国法院民商事审判工作会议纪要 法〔2019〕254号
 十一、关于案外人救济案件的审理
 
 十二、关于民刑交叉案件的程序处理
-
-{% file src=".gitbook/assets/zui-gao-ren-min-fa-yuan-guan-yu-yin-fa-quan-guo-fa-yuan-min-shang-shi-shen-pan-gong-zuo-hui-yi-ji-ya.docx" %}
 
