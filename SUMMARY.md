@@ -9,6 +9,5 @@
 * 担保
   * [关于担保](guan-yu-dan-bao.md)
 * 参考
-  * [民法典](min-fa-dian.md)
-  * [九民纪要](jiu-min-ji-yao.md)
+  * [法律法规](fa-lv-fa-gui.md)
   * [法学书单](fa-xue-shu-dan.md)
